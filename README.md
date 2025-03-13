@@ -1,4 +1,16 @@
-## BIENVENIDOS AL MUNDO DE EMANUEL
+<p align="center">
+  <a href="https://github.com/EmanuelRobinson">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Emanuel Robinson" /></a>
+</p>
+
+----
+
+<p align="center">
+  <a href="https://github.com/EmanuelRobinson/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&color=f75c7e&vCenter=true&width=500&lines=Full+Stack+Web+%26+App+Developer;Experienced+UI%2FUX+Designer;10%2B+Years+of+Coding+Experience" />
+  </a>
+</p>
+
  
 <a href="https://www.linkedin.com/in/emanuel-robinson-ordo%C3%B1ez-hancco-797956355/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
