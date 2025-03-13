@@ -1,4 +1,7 @@
 ## BIENVENIDOS AL MUNDO DE EMANUEL
+
+![GitHub Snake Animation](https://github.com/TU-USUARIO/snake-animation/raw/output/snake-dark.svg)
+
  
 <a href="https://www.linkedin.com/in/emanuel-robinson-ordo%C3%B1ez-hancco-797956355/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
