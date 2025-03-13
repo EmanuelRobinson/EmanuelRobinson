@@ -20,3 +20,10 @@
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BEKH4MDEV/BEKH4MDEV/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BEKH4MDEV/BEKH4MDEV/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/BEKH4MDEV/BEKH4MDEV/output/github-snake.svg" />
+  </picture>
+</div>
