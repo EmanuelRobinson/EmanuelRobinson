@@ -20,6 +20,3 @@
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
 
-
-### 🐍 ¡Mira cómo la serpiente se pasea por mi GitHub!
-![Snake animation](https://github.com/EmanuelRobinson/EmanuelRobinson/blob/output/github-contribution-grid-snake.svg)
