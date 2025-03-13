@@ -1,6 +1,6 @@
 ## BIENVENIDOS AL MUNDO DE EMANUEL
 
-![GitHub Snake Animation](https://github.com/TU-USUARIO/snake-animation/raw/output/snake-dark.svg)
+![GitHub Snake Animation](https://github.com/EmanuelRobinson/snake-animation/raw/output/snake-dark.svg)
 
  
 <a href="https://www.linkedin.com/in/emanuel-robinson-ordo%C3%B1ez-hancco-797956355/">
