@@ -1,13 +1,12 @@
 <p align="center">
   <a href="https://github.com/EmanuelRobinson">
+    <img src="https://readme-typing-svg.herokuapp.com/demo/?pause=&color=FF1E82&center=true&vCenter=true&repeat=false&lines=Emanuel+Robinson" alt="EmanuelRobinson" /></a>
 </p>
 
-----
+---
 
 <p align="center">
-  <a href="https://github.com/EmanuelRobinson/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1E82&center=true&width=435&lines=SOFTWARE+DEVELOPER+IN+PROGRESS"/>
-  </a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1E82&center=true&width=435&lines=SOFTWARE+DEVELOPER+IN+PROGRESS"/></a>
 </p>
 
  
