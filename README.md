@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/EmanuelRobinson/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&color=f75c7e&vCenter=true&width=500&lines=Full+Stack+Web+%26+App+Developer;Experienced+UI%2FUX+Designer;10%2B+Years+of+Coding+Experience" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=52F73D&center=true&width=435&lines=SOFTWARE+DEVELOPER+IN+PROGRESS" />
   </a>
 </p>
 
