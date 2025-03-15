@@ -4,7 +4,7 @@
 </p>
 
 <h2 align="center">EMANUEL ROBINSON</h2>
-<p aling="center"><img src="kirokaze.gif" alt="Kirokaze GIF" style="width: 800px; height: 400px;"></p> 
+<p aling="center"><img src="kirokaze.gif" alt="Kirokaze GIF" style="width: 800px; height: 500px;"></p> 
 
 <p align="center">
   <a href="#">
