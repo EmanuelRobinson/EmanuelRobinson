@@ -3,22 +3,22 @@
 <a href="mailto:emarobins.oh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
-<a href="#"><h1 align="center">Bienvenid@ gracias por tu visita</h1>
+<p align="center"><strong>Bienvenid@, gracias por tu visita</strong></p>
 
-<p align="center"><img src="kirokaze.gif" alt="Kirokaze GIF" style="width: 650px; height: 350px;"></p> 
+<p align="center"><img src="kirokaze.webp" alt="Kirokaze GIF" style="width: 650px; height: 350px;"></p> 
 
 <p align="center">
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=2900&pause=1000&color=F7CF18&center=true&vCenter=true&width=435&lines=DESARROLLADOR+DE+SOFTWARE+EN+PROCESO;EXPERIENCIA+EN+BACKEND;EXPERIENCIA+EN+FRONTED;y+un+buen+ser+humano"/></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=3500&pause=1200&color=F7CF18&center=true&vCenter=true&width=435&lines=DESARROLLADOR+DE+SOFTWARE+EN+PROCESO;EXPERIENCIA+EN+BACKEND;EXPERIENCIA+EN+FRONTEND;y+un+buen+ser+humano"/></a>
 </p>
 
-Que tal, deseas tomar café?☕ 
+<p align="center">¿Qué tal, deseas tomar café? ☕</p>
 
 <br>
 
-Actualmente estoy realizando prácticas como desarrollador backend y frontend, ando aprendiendo Docker, Angular y GSAP para mejorar mis habilidades y buscando colaborar en proyectos donde estoy dispuesto a nuevas y mejores oportunidades para crecer como desarrollador.
-A continuancion observabaras algunas de las tecnologias y herramientas que llegue a implementar en algunos de mis proyectos.
+Actualmente estoy realizando prácticas como desarrollador backend y frontend. Estoy aprendiendo Docker, Angular y GSAP para mejorar mis habilidades, y estoy abierto a nuevas y mejores oportunidades para crecer como desarrollador.
+A continuación, observarás algunas de las tecnologías y herramientas que he implementado en mis proyectos.
 
-## 💻 TECNOLOGIAS Y HERRAMIENTAS
+## 💻 TECNOLOGÍAS Y HERRAMIENTAS
 <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=database&logoColor=white"></a>
 <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
@@ -53,13 +53,12 @@ A continuancion observabaras algunas de las tecnologias y herramientas que llegu
 
 <br>
 
-<p align="center"><strong>SOCIAL</strong></p>
+<p align="center"><strong>Si deseas comunicarte conmigo, me puedes encontrar en estos lugares. ¡Nos vemos pronto!</strong></p>
 <p align="center">
 <a href="https://www.instagram.com/emanuel.oh/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://github.com/EmanuelRobinson"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://discord.com/users/emanuel_oh"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
-
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/EmanuelRobinson/EmanuelRobinson/output/snake.svg" alt="Snake animation" />
