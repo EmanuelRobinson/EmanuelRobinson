@@ -18,7 +18,7 @@
 Actualmente estoy realizando prácticas como desarrollador backend y frontend. Estoy aprendiendo Docker, Angular y GSAP para mejorar mis habilidades, y estoy abierto a nuevas y mejores oportunidades para crecer como desarrollador.
 A continuación, observarás algunas de las tecnologías y herramientas que he implementado en mis proyectos.
 
-## 💻 TECNOLOGÍAS Y HERRAMIENTAS
+## 💻 TECNOLOGIAS
 <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=database&logoColor=white"></a>
 <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
@@ -44,6 +44,7 @@ A continuación, observarás algunas de las tecnologías y herramientas que he i
 
 <br>
 
+## 💻 HERRAMIENTAS
 <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?style=for-the-badge&logo=notion&logoColor=white"></a>
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
