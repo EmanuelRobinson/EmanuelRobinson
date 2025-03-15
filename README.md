@@ -3,7 +3,12 @@
   <a href="mailto:emarobins.oh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
-<h2 align="center">hi, welcome! thank you for visiting me</font></h2>
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=&pause=1000&width=435&lines=Hi%2C+welcome!+thank+you+for+visiting+me"/>
+  </a>
+</p>
+
 <p align="center"><img src="kirokaze.gif" alt="Kirokaze GIF" style="width: 650px; height: 350px;"></p> 
 
 <p align="center">
