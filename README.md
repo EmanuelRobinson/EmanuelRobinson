@@ -1,14 +1,12 @@
 EMANUEL ROBINSON
 
----
-
 <p align="center">
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1E82&center=true&width=435&lines=SOFTWARE+DEVELOPER+IN+PROGRESS"/>
   </a>
 </p>
 
-**i like writing code** <img src="Rana.gif" width="60" height="40"> **and Ahtipia's burger.** <img src="Patricio.gif" width="60" height="40">
+<!--**i like writing code** <img src="Rana.gif" width="60" height="40"> **and Ahtipia's burger.** <img src="Patricio.gif" width="60" height="40">-->
 
 ---
 <p>
