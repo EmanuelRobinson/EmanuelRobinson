@@ -11,7 +11,10 @@
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=2900&pause=1000&color=F7CF18&center=true&vCenter=true&width=435&lines=DESARROLLADOR+DE+SOFTWARE+EN+PROCESO;EXPERIENCIA+EN+BACKEND;EXPERIENCIA+EN+FRONTED;y+un+buen+ser+humano"/></a>
 </p>
 
-Que tal, deseas tomar café?☕
+Que tal, deseas tomar café?☕ 
+
+<br>
+
 Actualmente estoy realizando prácticas como desarrollador backend y frontend, ando aprendiendo Docker, Angular y GSAP para mejorar mis habilidades y buscando colaborar en proyectos donde estoy dispuesto a nuevas y mejores oportunidades para crecer como desarrollador.
 A continuancion observabaras algunas de las tecnologias y herramientas que llegue a implementar en algunos de mis proyectos.
 
