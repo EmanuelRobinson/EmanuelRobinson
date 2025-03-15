@@ -7,7 +7,9 @@
 <p aling="center"><img src="kirokaze.gif" alt="Kirokaze GIF" style="width: 800px; height: 400px;"></p> 
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1E82&center=true&width=435&lines=SOFTWARE+DEVELOPER+IN+PROGRESS"/></a>
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1E82&center=true&width=435&lines=SOFTWARE+DEVELOPER+IN+PROGRESS"/>
+  </a>
 </p>
 
 <table>
