@@ -2,6 +2,9 @@
   EMANUEL ROBINSON
 </p>
 
+<a href="#"><img src="font.jpn" width="100" height="100">
+
+
 <p align="center"> <!-- ono -->
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1E82&center=true&width=435&lines=SOFTWARE+DEVELOPER+IN+PROGRESS"/></a>
 </p>
