@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=&pause=1000&width=435&lines=Hi%2C+welcome!+thank+you+for+visiting+me"/>
+    <img src="https://readme-typing-svg.demolab.com?font=&pause=1000&width=435&lines=Hi%2C+welcome!+thank+you+for+visiting+me"/><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   </a>
 </p>
 
