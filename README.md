@@ -13,6 +13,12 @@
 TECHNOLOGIES
 <table>
   <tr>
+    <th>Lenguajes de Programación</th>
+    <th>Backend y Frontend</th>
+    <th>Bases de Datos</th>
+    <th>Herramientas y Plataformas</th>
+  </tr>
+  <tr>
     <td>
       <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
       <a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
@@ -30,7 +36,6 @@ TECHNOLOGIES
       <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white"></a>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
       <a href="#"><img alt="GSAP" src="https://img.shields.io/badge/GSAP-88CE02.svg?logo=greensock&logoColor=white"></a>
-      <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white"></a>
       <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
       <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white"></a>
     </td>
@@ -38,6 +43,8 @@ TECHNOLOGIES
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
       <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+    </td>
+    <td>
       <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
