@@ -7,7 +7,7 @@
 </p>
 
 <p align="right"> <!-- ono -->
-  <a href="#"><img src="Animation.gif"/></a>
+  <a href="#"><img src="Animation.gif" width="80" height="80"></a>
 </p>
 
 TECHNOLOGIES
