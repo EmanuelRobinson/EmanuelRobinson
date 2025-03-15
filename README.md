@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1E82&center=true&width=435&lines=SOFTWARE+DEVELOPER+IN+PROGRESS"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2900&pause=1000&color=F7D433&center=true&vCenter=true&width=435&lines=SOFTWARE+DEVELOPER+IN+PROGRESS;BACKEND+EXPERIENCE;FRONTEND+EXPERIENCE;beyond+skills%2C+a+good+human+being."/>
   </a>
 </p>
 
