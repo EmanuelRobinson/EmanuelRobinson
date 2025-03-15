@@ -4,7 +4,7 @@
 </p>
 
 <h2 align="center"><font face="Arial" color="blue">Hi, welcome! thank you for visiting me</font></h2>
-<p align="center"><img src="kirokaze.gif" alt="Kirokaze GIF" style="width: 700px; height: 400px;"></p> 
+<p align="center"><img src="kirokaze.gif" alt="Kirokaze GIF" style="width: 650px; height: 350px;"></p> 
 
 <p align="center">
   <a href="#">
