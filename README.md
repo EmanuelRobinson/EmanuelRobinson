@@ -6,8 +6,6 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1E82&center=true&width=435&lines=SOFTWARE+DEVELOPER+IN+PROGRESS"/></a>
 </p>
 
-## 🛠️ Tecnologías y Herramientas
-
 ### Programming Lenguajes
 <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
 <a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
