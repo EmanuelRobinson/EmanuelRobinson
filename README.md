@@ -12,9 +12,7 @@
 </p>
 
 **i like writing code**  
-<img src="Rana.gif" width="100" height="100">  
-**and pizza**  
-<img src="Pizzaparty.gif" width="100" height="100">
+<img src="Rana.gif" width="30" height="50">  **and pizza**<img src="Pizzaparty.gif" width="100" height="100">
 
  
 <a href="https://www.linkedin.com/in/emanuel-robinson-ordo%C3%B1ez-hancco-797956355/">
