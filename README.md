@@ -21,7 +21,7 @@ I'm learning **Docker, Angular, and GSAP** to enhance my skills.
 I'm looking to collaborate on **front-end web & app development projects**.  
 I'm open to **new and better opportunities** to grow as a developer.  
 
-## 💻 Technologies & Tools  
+## 💻 TECNOLOGIAS Y HERRAMIENTAS 
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
 <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
