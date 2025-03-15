@@ -4,6 +4,7 @@
 </p>
 
 <h2 align="center">EMANUEL ROBINSON</h2>
+<a href="kirokaze.gif"></a>
 
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1E82&center=true&width=435&lines=SOFTWARE+DEVELOPER+IN+PROGRESS"/></a>
