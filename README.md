@@ -13,6 +13,14 @@
   </a>
 </p>
 
+
+## Hi there!  
+
+I'm currently doing internships as a **backend and frontend developer**.  
+I'm learning **Docker, Angular, and GSAP** to enhance my skills.  
+I'm looking to collaborate on **front-end web & app development projects**.  
+I'm open to **new and better opportunities** to grow as a developer.  
+
 <table>
   <tr>
     <th>PROGRAMMING LANGUAGES</th>
