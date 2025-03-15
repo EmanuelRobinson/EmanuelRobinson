@@ -8,7 +8,7 @@
 <p align="center"><img src="kirokaze.gif" alt="Kirokaze" style="width: 650px; height: 350px;"></p> 
 
 <p align="center">
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=3500&pause=1200&color=F7CF18&center=true&vCenter=true&width=435&lines=DESARROLLADOR+DE+SOFTWARE+EN+PROCESO;EXPERIENCIA+EN+BACKEND;EXPERIENCIA+EN+FRONTEND;y+un+buen+ser+humano"/></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=2900&pause=1200&color=F7CF18&center=true&vCenter=true&width=435&lines=DESARROLLADOR+DE+SOFTWARE+EN+PROCESO;EXPERIENCIA+EN+BACKEND;EXPERIENCIA+EN+FRONTEND;y+un+buen+ser+humano"/></a>
 </p>
 
 <p align="center">¿Qué tal, deseas tomar café? ☕</p>
