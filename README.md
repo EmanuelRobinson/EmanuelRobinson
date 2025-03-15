@@ -13,13 +13,7 @@
   </a>
 </p>
 
-
-## Hi there!
-
-I'm currently doing internships as a **backend and frontend developer**.  
-I'm learning **Docker, Angular, and GSAP** to enhance my skills.  
-I'm looking to collaborate on **front-end web & app development projects**.  
-I'm open to **new and better opportunities** to grow as a developer.  
+I'm currently doing internships as a **backend and frontend developer**, learning **Docker, Angular, and GSAP** to enhance my skills. I'm looking to collaborate on **front-end web & app development projects** and open to **new and better opportunities** to grow as a developer.
 
 ## 💻 TECNOLOGIAS Y HERRAMIENTAS 
 <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=database&logoColor=white"></a>
@@ -58,8 +52,8 @@ I'm open to **new and better opportunities** to grow as a developer.
 
 <p align="center">
   <a href="https://www.instagram.com/emanuel.oh/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://discord.com/users/emanuel_oh"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://github.com/EmanuelRobinson"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://discord.com/users/emanuel_oh"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
 
