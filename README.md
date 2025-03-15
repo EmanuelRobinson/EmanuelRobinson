@@ -11,7 +11,7 @@ EMANUEL ROBINSON
 **i like writing code** <img src="Rana.gif" width="60" height="40"> **and Ahtipia's burger.** <img src="Patricio.gif" width="60" height="40">
 
 ---
-
+<p>
   <a href="#">
     <img src="green.gif" width="40" height="40">
   </a>
@@ -21,7 +21,8 @@ EMANUEL ROBINSON
   <a href="https://github.com/EmanuelRobinson">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-
+</p>
+<p>
   <a href="#">
     <img src="green.gif" width="40" height="40">
   </a>
@@ -34,8 +35,7 @@ EMANUEL ROBINSON
   <a href="https://wa.me/51904667970">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
+  </p>
 
-
----
 
 <img src="https://raw.githubusercontent.com/EmanuelRobinson/EmanuelRobinson/output/snake.svg" alt="Snake animation" />
