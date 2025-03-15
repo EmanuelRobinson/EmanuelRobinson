@@ -3,17 +3,15 @@
   <a href="mailto:emarobins.oh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
-  <a href="#"><h1 align="center"><b>Hola, Bienvenido gracias por visitarme!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<a href="#"><h1 align="center"><b>Hola, Bienvenido gracias por tu visita</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <p align="center"><img src="kirokaze.gif" alt="Kirokaze GIF" style="width: 650px; height: 350px;"></p> 
 
 <p align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2900&pause=1000&color=F7D433&center=true&vCenter=true&width=435&lines=SOFTWARE+DEVELOPER+IN+PROGRESS;BACKEND+EXPERIENCE;FRONTEND+EXPERIENCE;beyond+skills%2C+a+good+human+being."/>
-  </a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=2900&pause=1000&color=F7CF18&center=true&vCenter=true&width=435&lines=DESARROLLADOR+DE+SOFTWARE+EN+PROCESO;EXPERIENCIA+EN+BACKEND;EXPERIENCIA+EN+FRONTED;y+m%C3%A1s+all%C3%A1+de+las+habilidades%2C+una+buena+persona"/></a>
 </p>
 
-Hola, Actualmente estoy realizando prácticas como desarrollador backend y frontend, ando aprendiendo Docker, Angular y GSAP para mejorar mis habilidades y buscando colaborar en proyectos de desarrollo front-end para web y aplicaciones y estoy abierto a nuevas y mejores oportunidades para crecer como desarrollador.
+Que tal, deseas tomar cafe?☕, Actualmente estoy realizando prácticas como desarrollador backend y frontend, ando aprendiendo Docker, Angular y GSAP para mejorar mis habilidades y buscando colaborar en proyectos de desarrollo front-end para web y aplicaciones y estoy abierto a nuevas y mejores oportunidades para crecer como desarrollador.
 
 ## 💻 TECNOLOGIAS Y HERRAMIENTAS QUE LOGRE USAR
 <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=database&logoColor=white"></a>
@@ -50,7 +48,7 @@ Hola, Actualmente estoy realizando prácticas como desarrollador backend y front
 
 <br>
 
-<p align="center">
+<p align="center"><b>SI DESEAS ME PUEDES CONTACTAR POR AQUI</b>
   <a href="https://www.instagram.com/emanuel.oh/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://github.com/EmanuelRobinson"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://discord.com/users/emanuel_oh"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
