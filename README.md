@@ -15,7 +15,7 @@
 
 Hola, Actualmente estoy realizando prácticas como desarrollador backend y frontend, ando aprendiendo Docker, Angular y GSAP para mejorar mis habilidades y buscando colaborar en proyectos de desarrollo front-end para web y aplicaciones y estoy abierto a nuevas y mejores oportunidades para crecer como desarrollador.
 
-## 💻 TECNOLOGIAS Y HERRAMIENTAS 
+## 💻 TECNOLOGIAS Y HERRAMIENTAS QUE EH LLEGADO A USAR
 <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=database&logoColor=white"></a>
 <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
