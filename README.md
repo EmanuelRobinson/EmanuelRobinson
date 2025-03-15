@@ -3,11 +3,8 @@
   <a href="mailto:emarobins.oh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
-<p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=&pause=1000&width=435&lines=Hi%2C+welcome!+thank+you+for+visiting+me"/><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  </a>
-</p>
+    <h1 align="center"><b>Hi , I'm Valentina Werle </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center"><img src="kirokaze.gif" alt="Kirokaze GIF" style="width: 650px; height: 350px;"></p> 
 
