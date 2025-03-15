@@ -13,7 +13,7 @@
   </a>
 </p>
 
-I'm currently doing internships as a **backend and frontend developer**, learning **Docker, Angular, and GSAP** to enhance my skills. I'm looking to collaborate on **front-end web & app development projects** and open to **new and better opportunities** to grow as a developer.
+Hola, Actualmente estoy realizando prácticas como desarrollador backend y frontend, ando aprendiendo Docker, Angular y GSAP para mejorar mis habilidades y buscando colaborar en proyectos de desarrollo front-end para web y aplicaciones y estoy abierto a nuevas y mejores oportunidades para crecer como desarrollador.
 
 ## 💻 TECNOLOGIAS Y HERRAMIENTAS 
 <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=database&logoColor=white"></a>
