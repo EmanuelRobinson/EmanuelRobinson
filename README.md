@@ -12,7 +12,6 @@ EMANUEL ROBINSON
 
 ---
 
-<p align="center">
   <a href="#">
     <img src="green.gif" width="40" height="40">
   </a>
@@ -24,6 +23,11 @@ EMANUEL ROBINSON
   </a>
   <a href="https://github.com/EmanuelRobinson">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+  <a href="#">
+    <img src="green.gif" width="40" height="40">
   </a>
 </p>
 
