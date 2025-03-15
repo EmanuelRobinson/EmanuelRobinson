@@ -11,8 +11,7 @@
   </a>
 </p>
 
-**i like writing code**  
-<img src="Rana.gif" width="30" height="50">  **and pizza**<img src="Pizzaparty.gif" width="100" height="100">
+**i like writing code**<img src="Rana.gif" width="50" height="30">  **and pizza**<img src="Pizzaparty.gif" width="50" height="30">
 
  
 <a href="https://www.linkedin.com/in/emanuel-robinson-ordo%C3%B1ez-hancco-797956355/">
