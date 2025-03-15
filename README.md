@@ -1,11 +1,13 @@
-<p align="center">
-  <font color="#FF1E82" size="5"><b>EMANUEL ROBINSON</b></font>
+<p align="center" style="color:#FF1E82; font-size: 24px; font-weight: bold;">
+  EMANUEL ROBINSON
 </p>
+
 <p align="center">
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1E82&center=true&width=435&lines=SOFTWARE+DEVELOPER+IN+PROGRESS"/>
   </a>
 </p>
+
 
 
 <!--**i like writing code** <img src="Rana.gif" width="60" height="40"> **and Ahtipia's burger.** <img src="Patricio.gif" width="60" height="40">-->
