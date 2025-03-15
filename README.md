@@ -13,7 +13,7 @@
 
 **i like writing code** <img src="Rana.gif" width="60" height="40"> **and Ahtipia's burger.** <img src="Patricio.gif" width="60" height="40">
 
-| ![](tu-gif.gif) ##CONTACT
+![](tu-gif.gif) ##CONTACT
 
  
 <a href="https://www.linkedin.com/in/emanuel-robinson-ordo%C3%B1ez-hancco-797956355/">
