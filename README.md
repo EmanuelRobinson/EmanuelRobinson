@@ -53,7 +53,7 @@ A continuación, observarás algunas de las tecnologías y herramientas que he i
 
 <br>
 
-<p align="center"><strong>Si deseas comunicarte conmigo, me puedes encontrar en estos lugares. ¡Nos vemos pronto!</strong></p>
+<p align="center"><strong>Si deseas comunicarte conmigo, me puedes encontrar en estos lugares magicos. ¡Nos vemos pronto!</strong></p>
 <p align="center">
 <a href="https://www.instagram.com/emanuel.oh/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://github.com/EmanuelRobinson"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
