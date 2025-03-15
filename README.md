@@ -4,7 +4,7 @@
 </p>
 
 <h2 align="center">EMANUEL ROBINSON</h2>
-<p aling="center"><img src="kirokaze.gif" alt="Kirokaze GIF" style="width: 700px; height: 400px;"></p> 
+<p align="center"><img src="kirokaze.gif" alt="Kirokaze GIF" style="width: 700px; height: 400px;"></p> 
 
 <p align="center">
   <a href="#">
@@ -14,10 +14,10 @@
 
 <table>
   <tr>
-    <th>PROGRAMING LENAGUAJES</th>
-    <th>BAKEND & FRONTEND</th>
-    <th>DATA BASES</th>
-    <th>TOOLS & PLATAFORMS</th>
+    <th>PROGRAMMING LANGUAGES</th>
+    <th>BACKEND & FRONTEND</th>
+    <th>DATABASES</th>
+    <th>TOOLS & PLATFORMS</th>
   </tr>
   <tr>
     <td>
@@ -58,8 +58,12 @@
   </tr>
 </table>
 
+<p align="center">
   <a href="https://discord.com/users/emanuel_oh"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://wa.me/51904667970"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-
   <a href="https://github.com/EmanuelRobinson"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/EmanuelRobinson/EmanuelRobinson/output/snake.svg" alt="Snake animation" />
+</p>
