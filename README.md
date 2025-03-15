@@ -2,7 +2,7 @@
   EMANUEL ROBINSON
 </p>
 
-<a href="#"><img src="font.jpn" width="100" height="100">
+<a href="#"><img src="font.jpg" width="100" height="100">
 
 
 <p align="center"> <!-- ono -->
