@@ -11,10 +11,10 @@
 
 <table>
   <tr>
-    <th>Lenguajes de Programación</th>
-    <th>Backend y Frontend</th>
-    <th>Bases de Datos</th>
-    <th>Herramientas y Plataformas</th>
+    <th>PROGRAMING LENAGUAJES</th>
+    <th>BAKEND & FRONTEND</th>
+    <th>DATA BASES</th>
+    <th>TOOLS & PLATAFORMS</th>
   </tr>
   <tr>
     <td>
