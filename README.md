@@ -3,7 +3,7 @@
   <a href="mailto:emarobins.oh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
-  <a href="#"><h1 align="center"><b>Hi, I'm Emanuel. Welcome, and thank you for your visit! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+  <a href="#"><h1 align="center"><b>Hola, Bienvenido gracias por visitarme!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <p align="center"><img src="kirokaze.gif" alt="Kirokaze GIF" style="width: 650px; height: 350px;"></p> 
 
@@ -15,7 +15,7 @@
 
 Hola, Actualmente estoy realizando prácticas como desarrollador backend y frontend, ando aprendiendo Docker, Angular y GSAP para mejorar mis habilidades y buscando colaborar en proyectos de desarrollo front-end para web y aplicaciones y estoy abierto a nuevas y mejores oportunidades para crecer como desarrollador.
 
-## 💻 TECNOLOGIAS Y HERRAMIENTAS QUE EH LLEGADO A USAR
+## 💻 TECNOLOGIAS Y HERRAMIENTAS QUE LOGRE USAR
 <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=database&logoColor=white"></a>
 <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
