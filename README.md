@@ -3,9 +3,7 @@
   <a href="mailto:emarobins.oh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
-<h2 align="center">
-  <img src="green.gif" width="50" height="50"> EMANUEL ROBINSON
-</h2>
+<h2 align="center">EMANUEL ROBINSON</h2>
 
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1E82&center=true&width=435&lines=SOFTWARE+DEVELOPER+IN+PROGRESS"/></a>
