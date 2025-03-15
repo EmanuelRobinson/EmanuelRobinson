@@ -8,7 +8,7 @@
 <p align="center"><img src="kirokaze.gif" alt="Kirokaze GIF" style="width: 650px; height: 350px;"></p> 
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=2900&pause=1000&color=F7CF18&center=true&vCenter=true&width=435&lines=DESARROLLADOR+DE+SOFTWARE+EN+PROCESO;EXPERIENCIA+EN+BACKEND;EXPERIENCIA+EN+FRONTED;y+m%C3%A1s+all%C3%A1+de+las+habilidades%2C+una+buena+persona"/></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=2900&pause=1000&color=F7CF18&center=true&vCenter=true&width=435&lines=DESARROLLADOR+DE+SOFTWARE+EN+PROCESO;EXPERIENCIA+EN+BACKEND;EXPERIENCIA+EN+FRONTED;y+una+buen+ser+humano"/></a>
 </p>
 
 Que tal, deseas tomar cafe?☕, Actualmente estoy realizando prácticas como desarrollador backend y frontend, ando aprendiendo Docker, Angular y GSAP para mejorar mis habilidades y buscando colaborar en proyectos de desarrollo front-end para web y aplicaciones y estoy abierto a nuevas y mejores oportunidades para crecer como desarrollador.
