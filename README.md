@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="green.gif" width="40" height="40"> EMANUEL ROBINSON
+  <img src="green.gif" width="30" height="40"> EMANUEL ROBINSON
 </h1>
 
 <p align="center">
