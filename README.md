@@ -45,6 +45,7 @@ A continuación, observarás algunas de las tecnologías y herramientas que he i
 <br>
 
 ## 💻 HERRAMIENTAS
+![Herramientas](https://img.icons8.com/?size=100&id=86044&format=png&color=000000)
 <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?style=for-the-badge&logo=notion&logoColor=white"></a>
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
