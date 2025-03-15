@@ -1,7 +1,4 @@
-<p align="center">
-  <a href="https://github.com/EmanuelRobinson">
-    <img src="https://readme-typing-svg.herokuapp.com/demo/?pause=&color=FF1E82&center=true&vCenter=true&repeat=false&lines=Emanuel+Robinson"/></a>
-</p>
+EMANUEL ROBINSON
 
 ---
 
