@@ -1,19 +1,21 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/emanuel-robinson-ordo%C3%B1ez-hancco-797956355/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:emarobins.oh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/emanuel-robinson-ordo%C3%B1ez-hancco-797956355/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:emarobins.oh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
-<a href="#"><h1 align="center">Binevenid@ gracias por tu visita</h1>
+<a href="#"><h1 align="center">Bienvenid@ gracias por tu visita</h1>
 
 <p align="center"><img src="kirokaze.gif" alt="Kirokaze GIF" style="width: 650px; height: 350px;"></p> 
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=2900&pause=1000&color=F7CF18&center=true&vCenter=true&width=435&lines=DESARROLLADOR+DE+SOFTWARE+EN+PROCESO;EXPERIENCIA+EN+BACKEND;EXPERIENCIA+EN+FRONTED;y+un+buen+ser+humano"/></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=2900&pause=1000&color=F7CF18&center=true&vCenter=true&width=435&lines=DESARROLLADOR+DE+SOFTWARE+EN+PROCESO;EXPERIENCIA+EN+BACKEND;EXPERIENCIA+EN+FRONTED;y+un+buen+ser+humano"/></a>
 </p>
 
-Que tal, deseas tomar cafe?☕, Actualmente estoy realizando prácticas como desarrollador backend y frontend, ando aprendiendo Docker, Angular y GSAP para mejorar mis habilidades y buscando colaborar en proyectos de desarrollo front-end para web y aplicaciones y estoy abierto a nuevas y mejores oportunidades para crecer como desarrollador.
+Que tal, deseas tomar café?☕
+Actualmente estoy realizando prácticas como desarrollador backend y frontend, ando aprendiendo Docker, Angular y GSAP para mejorar mis habilidades y buscando colaborar en proyectos donde estoy dispuesto a nuevas y mejores oportunidades para crecer como desarrollador.
+A continuancion observabaras algunas de las tecnologias y herramientas que llegue a implementar en algunos de mis proyectos.
 
-## 💻 TECNOLOGIAS Y HERRAMIENTAS QUE LOGRE USAR
+## 💻 TECNOLOGIAS Y HERRAMIENTAS
 <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=database&logoColor=white"></a>
 <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
@@ -57,5 +59,5 @@ Que tal, deseas tomar cafe?☕, Actualmente estoy realizando prácticas como des
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EmanuelRobinson/EmanuelRobinson/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/EmanuelRobinson/EmanuelRobinson/output/snake.svg" alt="Snake animation" />
 </p>
