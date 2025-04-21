@@ -61,6 +61,12 @@ A continuación, observarás algunas de las tecnologías y herramientas que he i
 <a href="https://discord.com/users/emanuel_oh"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
+<br>
+
+## CURIOSIDADES DE EMANUEL - THE REAL BIG DATA (mueheheh)
+
+<p>In progress — I’ll update this section very soon.</p>
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/EmanuelRobinson/EmanuelRobinson/output/snake.svg" alt="Snake animation" />
 </p>
