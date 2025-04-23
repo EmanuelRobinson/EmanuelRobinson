@@ -67,6 +67,11 @@ A continuación, observarás algunas de las tecnologías y herramientas que he i
 
 <p>In progress — I’ll update this section very soon.</p> <!--agregar fotos que me envien a este apartado dentro de las imagenes del inicio similar a un collage para el ema del futuro oño!-->
 
+gustos musicales.. icon bandas
+hobbies
+color 
+etc etc
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/EmanuelRobinson/EmanuelRobinson/output/snake.svg" alt="Snake animation" />
 </p>
