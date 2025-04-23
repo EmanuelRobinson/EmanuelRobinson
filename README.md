@@ -70,7 +70,7 @@ A continuación, observarás algunas de las tecnologías y herramientas que he i
 gustos musicales.. icon bandas
 hobbies
 color 
-etc etc
+etc
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/EmanuelRobinson/EmanuelRobinson/output/snake.svg" alt="Snake animation" />
