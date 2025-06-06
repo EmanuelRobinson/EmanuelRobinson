@@ -65,7 +65,10 @@ A continuación, observarás algunas de las tecnologías y herramientas que he i
 
 ## CURIOSIDADES DE EMANUEL - THE REAL BIG DATA (mueheheh)
 
-<p>In progress — I’ll update this section very soon.</p> <!--agregar fotos que me envien a este apartado dentro de las imagenes del inicio similar a un collage para el ema del futuro oño!-->
+<p>In progress — I’ll update this section very soon.</p> 
+<p>In progress — I’ll update this section very soon.</p> 
+<p>In progress — I’ll update this section very soon.</p> 
+<!--agregar fotos que me envien a este apartado dentro de las imagenes del inicio similar a un collage para el ema del futuro oño!-->
 
 
 <p align="center">
