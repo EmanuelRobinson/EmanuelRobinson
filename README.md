@@ -15,5 +15,5 @@
 
 <br>
 
-Actualmente estoy realizando prácticas como desarrollador backend y frontend. Estoy aprendiendo Docker, Angular y GSAP para mejorar mis habilidades, y estoy abierto a nuevas y mejores oportunidades para crecer como desarrollador.
-A continuación, observarás algunas de las tecnologías y herramientas que he implementado en mis proyectos.
+Actualmente como estudiante estoy enfocado a ser un desarrollador Full Stack. Estoy aprendiendo a como va la vida y al tanto de las nuevas tecnologias que surgen para mejorar mis habilidades para crecer como desarrollador y persona.
+Te doy gracias por haberte tomado el tiempo de leer y espero tengas un buen dia/tarde/noche.
