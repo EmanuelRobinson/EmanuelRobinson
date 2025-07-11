@@ -26,6 +26,9 @@ Te doy gracias por haberte tomado el tiempo de leer y espero tengas un buen dia/
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"></a>
 <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
+
+<br>
+
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="#"><img alt="GSAP" src="https://img.shields.io/badge/GSAP-88CE02.svg?style=for-the-badge&logo=greensock&logoColor=white"></a>
@@ -33,3 +36,10 @@ Te doy gracias por haberte tomado el tiempo de leer y espero tengas un buen dia/
 <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></a>
+
+<br>
+
+<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+<a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+
