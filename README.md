@@ -18,4 +18,4 @@
 Actualmente como estudiante estoy enfocado a ser un desarrollador Full Stack. Estoy aprendiendo a como va la vida y al tanto de las nuevas tecnologias que surgen para mejorar mis habilidades para crecer como desarrollador y persona.
 Te doy gracias por haberte tomado el tiempo de leer y espero tengas un buen dia/tarde/noche conociendo mas sobre este humilde servidor.
 
-## 💻 TECNOLOGIAS DE MI INTERES
+## 🖥 ⌨️ Tecnologias de Mi Interes.
