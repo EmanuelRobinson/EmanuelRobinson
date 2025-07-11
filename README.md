@@ -18,7 +18,7 @@
 Actualmente como estudiante estoy enfocado a ser un desarrollador Full Stack. Estoy aprendiendo a como va la vida y al tanto de las nuevas tecnologias que surgen para mejorar mis habilidades para crecer como desarrollador y persona.
 Te doy gracias por haberte tomado el tiempo de leer y espero tengas un buen dia/tarde/noche conociendo mas sobre este humilde servidor.
 
-## 🖥 Tecnologias de Mi Interes
+## 🖥 Tecnologias de Mi Interes:
 
 <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=database&logoColor=white"></a>
 <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
@@ -43,7 +43,8 @@ Te doy gracias por haberte tomado el tiempo de leer y espero tengas un buen dia/
 <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
 <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 
-## 🛠 Herramientas de Apoyo que suelo usar
+## 🛠 Herramientas de Apoyo que suelo usar:
+
 <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?style=for-the-badge&logo=notion&logoColor=white"></a>
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
