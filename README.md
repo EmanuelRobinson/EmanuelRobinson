@@ -3,7 +3,7 @@
 <a href="mailto:emarobins.oh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
-<p align="center"><strong>Bienvenid@, gracias por tu visita</strong></p>
+<p align="center"><strong>Holaag Gracias por tu visita</strong></p>
 
 <p align="center"><img src="kirokaze.gif" alt="KIROKAZE" style="width: 750px; height: 400px;"></p> 
 
