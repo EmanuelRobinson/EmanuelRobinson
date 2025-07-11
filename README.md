@@ -43,3 +43,21 @@ Te doy gracias por haberte tomado el tiempo de leer y espero tengas un buen dia/
 <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
 <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 
+## 🛠 Herramientas de Apoyo que suelo usar
+<a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?style=for-the-badge&logo=notion&logoColor=white"></a>
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
+<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?style=for-the-badge&logo=android-studio&logoColor=white"></a>
+<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
+
+<br>
+
+<p align="center"><strong>Si deseas comunicarte conmigo, me puedes encontrar por aqui.</strong></p>
+<p align="center">
+<a href="https://www.instagram.com/emanuel.oh/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://github.com/EmanuelRobinson"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://discord.com/users/emanuel_oh"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+</p>
+
+
