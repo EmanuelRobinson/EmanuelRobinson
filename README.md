@@ -57,7 +57,7 @@ Te doy gracias por haberte tomado el tiempo de leer y espero tengas un buen dia/
 <a href="mailto:emarobins.oh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <p align="center">
 <a href="https://discord.com/users/emanuel_oh"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-<a href="https://discord.com/users/emanuel_oh"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://www.instagram.com/emanuel.oh/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 
