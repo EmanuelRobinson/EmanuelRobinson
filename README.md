@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hola Dev</h1> 
-<img src="mariob.gif" width="470" height="250" alt="Mario Animation">
+<img src="bimo.jpg" width="470" height="250" alt="bimo">
 <p>Welcome to my profile! Deseas un té o café?, café esta bien?, ok?, Listo! será café ☕</p> 
 <h3> My tech stack in progress</h3>
 <p>
