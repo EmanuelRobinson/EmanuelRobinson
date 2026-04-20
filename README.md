@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Hola Dev</h1> 
 <p>Welcome to my profile! Deseas un té o café?, café esta bien?, ok?, Listo! será café ☕</p> 
-<img src="bimo.jpg" width="470" height="250" alt="bimo">
+<img src="bimo.jpg" width="470" height="270" alt="bimo">
 <h3> My tech stack in progress</h3>
 <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
