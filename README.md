@@ -15,16 +15,4 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   </p>
-
-  <br>
-
-  <h2 align="center">📫 Reach me on</h2>
-  <p align="center">
-    <a target="_blank" href="https://www.linkedin.com/in/emanuel-robinson-montaño-abanto-6238b1303/">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:emarobins.oh@gmail.com?subject=Hola%20Emanuel,%20visto%20en%20Github">
-      <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
 </div>
