@@ -4,6 +4,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-emarobins-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://www.instagram.com/emanuel.oh/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-emanuel.oh-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 <h1>Hola Dev</h1> 
 <p>Welcome to my profile! Deseas un té o café?, café esta bien?, ok?, Listo! será café ☕</p> 
 
