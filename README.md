@@ -32,7 +32,6 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br><br>
         <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" /><br><br>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br><br>
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><br><br>
       </td>
       <td valign="top" width="33%">
         <h3>TOOLS & IDES</h3>
@@ -40,7 +39,7 @@
         <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /><br><br>
         <img src="https://img.shields.io/badge/NetBeans-B2213D?style=for-the-badge&logo=apache-netbeans&logoColor=white" /><br><br>
         <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white" /><br><br>
-        <img src="https://img.shields.io/badge/StarUML-df6ce0?style=for-the-badge&logo=staruml&logoColor=white" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><br><br>
       </td>
     </tr>
   </table>
