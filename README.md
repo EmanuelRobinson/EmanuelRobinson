@@ -19,8 +19,6 @@
       <td valign="top" width="33%">
         <h3>PERSONAL SKILLS</h3>
         <img src="https://img.shields.io/badge/Trabajo_en_Equipo-0078D4?style=for-the-badge&logo=users&logoColor=white" /><br><br>
-        <img src="https://img.shields.io/badge/Fútbol-008000?style=for-the-badge&logo=soccer&logoColor=white" /><br><br>
-        <img src="https://img.shields.io/badge/Música-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" /><br><br>
         <img src="https://img.shields.io/badge/Aprendizaje_Continuo-FFB900?style=for-the-badge&logo=google-learn&logoColor=black" />
       </td>
       <td valign="top" width="33%">
