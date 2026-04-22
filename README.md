@@ -16,8 +16,15 @@
 <div align="center">
   <table>
     <tr>
-      <td valign="top" width="50%">
-        <h3>🚀 My Tech Stack in progress</h3>
+      <td valign="top" width="33%">
+        <h3>🌱 Personal Skills</h3>
+        <img src="https://img.shields.io/badge/Trabajo_en_Equipo-0078D4?style=for-the-badge&logo=users&logoColor=white" /><br><br>
+        <img src="https://img.shields.io/badge/Fútbol-008000?style=for-the-badge&logo=soccer&logoColor=white" /><br><br>
+        <img src="https://img.shields.io/badge/Música-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" /><br><br>
+        <img src="https://img.shields.io/badge/Aprendizaje_Continuo-FFB900?style=for-the-badge&logo=google-learn&logoColor=black" />
+      </td>
+      <td valign="top" width="33%">
+        <h3>🚀 Tech Stack</h3>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /><br><br>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -27,11 +34,11 @@
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
       </td>
-      <td valign="top" width="50%">
+      <td valign="top" width="33%">
         <h3>🛠️ Tools & IDEs</h3>
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /><br><br>
         <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /><br><br>
-        <img src="https://img.shields.io/badge/NetBeans-B2213D?style=for-the-badge&logo=apache-netbeans&logoColor=white" />
+        <img src="https://img.shields.io/badge/NetBeans-B2213D?style=for-the-badge&logo=apache-netbeans&logoColor=white" /><br><br>
         <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white" /><br><br>
         <img src="https://img.shields.io/badge/StarUML-df6ce0?style=for-the-badge&logo=staruml&logoColor=white" />
       </td>
