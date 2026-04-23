@@ -16,21 +16,7 @@
   <br><br>
 
   <p align="justify">
-    Desarrollador de Software enfocado en aplicaciones móviles y sitios web. Experiencia en el despliegue de proyectos, trabajo en equipo e iniciativa para asumir retos técnicos.
-  </p>
-
-  <hr />
-
-  <h3>TECH STACK & TOOLS</h3>
-
-  <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" width="25"> <b>Java:</b> Lenguaje principal para el desarrollo de mi aplicativo móvil nativo.<br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" width="25"> <b>PHP:</b> Desarrollo del lado del servidor (Backend) y conexión con bases de datos.<br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" width="25"> <b>JavaScript:</b> Implementación de interactividad y lógica en el frontend web.<br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="25" width="25"> <b>MySQL:</b> Gestión y diseño de bases de datos relacionales para pedidos.<br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" width="25"> <b>Android Studio:</b> Entorno principal para el desarrollo de apps móviles Android.<br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" width="25"> <b>Git:</b> Control de versiones para gestionar los cambios de mis proyectos.<br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" width="25"> <b>VS Code:</b> Editor versátil para desarrollo web y scripts rápidos.
+    Desarrollador de Software enfocado en aplicaciones móviles y sitios web, competente en una amplia gama de lenguajes de programación y principios de negocios. Experiencia en el despliegue de proyectos y gran disposición para el trabajo en equipo e iniciativa para asumir puestos de responsabilidad.
   </p>
 
   <hr />
@@ -38,5 +24,18 @@
   <h3>PERSONAL SKILLS</h3>
   <img src="https://img.shields.io/badge/Trabajo_en_Equipo-0078D4?style=for-the-badge&logo=users&logoColor=white" />
   <img src="https://img.shields.io/badge/Aprendizaje_Continuo-FFB900?style=for-the-badge&logo=google-learn&logoColor=black" />
+
+  <br>
+
+  <h3>TECH STACK & TOOLS</h3>
+  <img alt="Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img alt="PHP" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img alt="JS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img alt="HTML5" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img alt="CSS3" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img alt="MySQL" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img alt="Android" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+  <img alt="Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img alt="VS Code" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 
 </div>
