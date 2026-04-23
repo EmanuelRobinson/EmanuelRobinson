@@ -11,12 +11,6 @@
 
   <p>Welcome to my profile! Deseas un té o café?, café esta bien?, ok?, Listo! será café ☕</p>
   <br><br>
-  <p align="justify">Desarrollador de Software enfocado en aplicaciones móviles y sitios web, competente en una amplia gama de lenguajes de programación y principios de negocios. Experiencia en el despliegue de proyectos y gran disposición para el trabajo en equipo e iniciativa para asumir puestos de responsabilidad.</p>
-
-  <img src="bimo.jpg" width="470" height="270" alt="bimo">
-  
-  <br><br>
-  <hr />
 
   <h3>PERSONAL SKILLS</h3>
   <img src="https://img.shields.io/badge/Trabajo_en_Equipo-0078D4?style=for-the-badge&logo=users&logoColor=white" />
