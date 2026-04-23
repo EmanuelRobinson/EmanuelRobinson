@@ -28,7 +28,6 @@
         <img src="https://img.shields.io/badge/Trabajo_en_Equipo-0078D4?style=for-the-badge&logo=users&logoColor=white" /><br><br>
         <img src="https://img.shields.io/badge/Aprendizaje_Continuo-FFB900?style=for-the-badge&logo=google-learn&logoColor=black" />
       </td>
-
       <td valign="top" width="33%">
         <h3>TECH STACK</h3>
         <img align="center" alt="Java" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -38,7 +37,6 @@
         <img align="center" alt="CSS3" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
         <img align="center" alt="MySQL" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
       </td>
-
       <td valign="top" width="33%">
         <h3>TOOLS</h3>
         <img align="center" alt="Android" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
