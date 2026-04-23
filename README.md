@@ -12,7 +12,8 @@
 <p>Welcome to my profile! Deseas un té o café?, café esta bien?, ok?, Listo! será café ☕</p> 
 
 <img src="bimo.jpg" width="470" height="270" alt="bimo">
-
+<br>
+<p>Desarrollador de Software de aplicaciones móviles y sitios web, competente en una amplia gama de lenguajes de programación, tecnologías y principios de negocios. Experiencia en desplegar proyectos con éxito en plataformas en la nube, App Store. Disposición para el trabajo en equipo e iniciativa para asumir puestos de responsabilidad.</p>
 <div align="center">
   <table>
     <tr>
