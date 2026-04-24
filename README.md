@@ -6,11 +6,11 @@
   <a href="https://www.instagram.com/emanuel.oh/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-emanuel.oh-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-
   <h1>👋 Hola Dev</h1> 
 
   <p>Welcome to my profile! Deseas un té o café?, café esta bien?, ok?, Listo! será café ☕</p>
   <br>
+  </div align="center">
   <p>🔭 I'm currently working on my software development thesis.
 
 🌱 I'm learning other programming languages ​​to improve my skills.
@@ -29,7 +29,7 @@
 
   <h3>TECH STACK & TOOLS</h3>
 
-  <table align="center" border="0">
+  <table align="center" border="null">
     <tr>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"><br><sub><b>Java</b><br>Mobile</sub></td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"><br><sub><b>PHP</b><br>Backend</sub></td>
