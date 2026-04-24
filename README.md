@@ -21,7 +21,6 @@ I'm looking for new and better opportunities.
 
 Fun fact: I love coffee.
 </p>
-<br>
 
 <div align="center">
 <h3>PERSONAL SKILLS</h3>
