@@ -10,7 +10,16 @@
   <h1>👋 Hola Dev</h1> 
 
   <p>Welcome to my profile! Deseas un té o café?, café esta bien?, ok?, Listo! será café ☕</p>
-  <br><br>
+  <br>
+  <p>🔭 I'm currently working on my software development thesis.
+
+🌱 I'm learning other programming languages ​​to improve my skills.
+
+👯 I'm looking to collaborate on web development and front-end application projects.
+
+🤔 I'm looking for new and better opportunities.
+
+⚡ Fun fact: I love coffee.</p>
 
   <h3>PERSONAL SKILLS</h3>
   <img src="https://img.shields.io/badge/Trabajo_en_Equipo-0078D4?style=for-the-badge&logo=users&logoColor=white" />
