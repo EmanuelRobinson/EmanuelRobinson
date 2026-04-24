@@ -6,20 +6,20 @@
   <a href="https://www.instagram.com/emanuel.oh/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-emanuel.oh-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <h1>👋 Hola Dev</h1> 
+  <h1>Hola Dev</h1> 
 
   <p>Welcome to my profile! Deseas un té o café?, café esta bien?, ok?, Listo! será café ☕</p>
   <br>
   </div align="center">
   <p>🔭 I'm currently working on my software development thesis.
 
-🌱 I'm learning other programming languages ​​to improve my skills.
+I'm learning other programming languages ​​to improve my skills.
 
-👯 I'm looking to collaborate on web development and front-end application projects.
+I'm looking to collaborate on web development and front-end application projects.
 
-🤔 I'm looking for new and better opportunities.
+I'm looking for new and better opportunities.
 
-⚡ Fun fact: I love coffee.</p>
+Fun fact: I love coffee.</p>
 <br>
 <div align="center">
   <h3>PERSONAL SKILLS</h3>
