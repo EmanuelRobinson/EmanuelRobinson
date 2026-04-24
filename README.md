@@ -20,14 +20,15 @@
 🤔 I'm looking for new and better opportunities.
 
 ⚡ Fun fact: I love coffee.</p>
-
+<br>
+<div align="center">
   <h3>PERSONAL SKILLS</h3>
   <img src="https://img.shields.io/badge/Trabajo_en_Equipo-0078D4?style=for-the-badge&logo=users&logoColor=white" />
   <img src="https://img.shields.io/badge/Aprendizaje_Continuo-FFB900?style=for-the-badge&logo=google-learn&logoColor=black" />
 
   <br><br>
 
-  <h3>TECH STACK & TOOLS</h3>
+  <h3>Tech stack & tools in progres</h3>
 
   <table align="center" border="null">
     <tr>
