@@ -11,23 +11,25 @@
 <br>  
 </div align="center">
 <p>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="20" height="20" /> I'm currently working on my <b>software development thesis</b>.
-</p>
 
-<p>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" height="20" /> I'm learning other programming languages ​​to improve my skills.
-</p>
+I'm currently working on my software development thesis.
 
-<p>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Globe" width="20" height="20" /> I'm looking to collaborate on <b>web development</b> and <b>front-end</b> application projects.
-</p>
 
-<p>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="20" height="20" /> I'm looking for new and better opportunities.
-</p>
 
-<p>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20Drink/Hot%20Beverage.png" alt="Coffee" width="20" height="20" /> Fun fact: <b>I love coffee</b>.
+I'm learning other programming languages ​​to improve my skills.
+
+
+
+I'm looking to collaborate on web development and front-end application projects.
+
+
+
+I'm looking for new and better opportunities.
+
+
+
+Fun fact: I love coffee.
+
 </p>
 
 <div align="center">
