@@ -11,15 +11,23 @@
 <br>  
 </div align="center">
 <p>
-I'm currently working on my software development thesis.
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="20" height="20" /> I'm currently working on my <b>software development thesis</b>.
+</p>
 
-I'm learning other programming languages ​​to improve my skills.
+<p>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" height="20" /> I'm learning other programming languages ​​to improve my skills.
+</p>
 
-I'm looking to collaborate on web development and front-end application projects.
+<p>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Globe" width="20" height="20" /> I'm looking to collaborate on <b>web development</b> and <b>front-end</b> application projects.
+</p>
 
-I'm looking for new and better opportunities.
+<p>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="20" height="20" /> I'm looking for new and better opportunities.
+</p>
 
-Fun fact: I love coffee.
+<p>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20Drink/Hot%20Beverage.png" alt="Coffee" width="20" height="20" /> Fun fact: <b>I love coffee</b>.
 </p>
 
 <div align="center">
