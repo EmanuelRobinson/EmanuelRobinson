@@ -10,17 +10,8 @@
 <p>Welcome to my profile! Deseas un té o café?, café esta bien?, ok?, Listo! será café ☕</p>
 <br>  
 </div>
-
-<p>
-I'm currently working on my software development thesis.
-<br><br>
-I'm learning other programming languages ​​to improve my skills.
-<br><br>
-I'm looking to collaborate on web development and front-end application projects.
-<br><br>
-I'm looking for new and better opportunities.
-<br><br>
-Fun fact: I love coffee.
+<p align="justify">
+  Soy un desarrollador de software enfocado en la creación de soluciones web funcionales y centradas en el usuario. Actualmente, me encuentro finalizando mi tesis de grado mientras expando mis horizontes técnicos mediante el aprendizaje constante de nuevos lenguajes y arquitecturas. Mi objetivo profesional es colaborar en proyectos de front-end que desafíen mis habilidades, aportando valor en entornos dinámicos y buscando siempre la excelencia técnica. Fuera de las líneas de código, soy un firme creyente de que las mejores ideas surgen frente a una buena taza de café.
 </p>
 
 <div align="center">
