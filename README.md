@@ -21,7 +21,7 @@
 
 <br>
 
-<h3>Tech stack & tools in progres!</h3>
+<h3>Tech stack & tools in progres</h3>
 
 <table align="center" border="null">
 <tr>
