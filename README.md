@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">
-<h3>PERSONAL SKILLS</h3>
+<h3>PERSONAL SKILLSS</h3>
 <img src="https://img.shields.io/badge/Trabajo_en_Equipo-0078D4?style=for-the-badge&logo=users&logoColor=white" />
 <img src="https://img.shields.io/badge/Aprendizaje_Continuo-FFB900?style=for-the-badge&logo=google-learn&logoColor=black" />
 
