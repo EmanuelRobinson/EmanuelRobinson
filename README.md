@@ -5,7 +5,7 @@
 <a href="https://www.instagram.com/emanuel.oh/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-emanuel.oh-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<h1>Hola Dev! que tal, todo bien che</h1> 
+<h1>Hola Dev! que tal, todo bien?</h1> 
 
 <p>Welcome to my profile, Deseas un té o café?, café esta bien?, ok?, Listo! será café☕ </p>
 <br>  
