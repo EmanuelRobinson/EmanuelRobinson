@@ -11,7 +11,7 @@
 <br>  
 </div>
 <p align="justify">
-  Soy un desarrollador de software enfocado en la creación de soluciones web funcionales y centradas en el usuario. Actualmente, me encuentro finalizando mi tesis de grado mientras expando mis ho[...]
+  Soy un desarrollador de software enfocado en la creación de soluciones web funcionales y centradas en el usuario. Actualmente, me encuentro finalizando mi tesis de grado mientras expando mis habilidades en desarrollo full-stack.
 </p>
 
 <div align="center">
@@ -42,3 +42,4 @@
 3. **Tercer cambio con ia** 💻
 4. **Cuarto cambio con ia** ⚡
 5. **Quinto cambio con ia** 🎯
+6. **Sexto cambio con ia** 🌟
