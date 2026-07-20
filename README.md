@@ -9,7 +9,7 @@
 <br>  
 </div>
 <p align="justify">
-  Soy un desarrollador de software enfocado en la creación de soluciones web funcionales y centradas en el usuario. Actualmente, me encuentro finalizando mi tesis de grado mientras expando mis habilidades en desarrollo full-stack.
+  un desarrollador de software enfocado en la creación de soluciones web funcionales y centradas en el usuario. Actualmente, me encuentro finalizando mi tesis de grado mientras expando mis habilidades en desarrollo full-stack.
 </p>
 
 <div align="center">
