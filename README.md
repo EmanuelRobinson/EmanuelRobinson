@@ -6,7 +6,6 @@
 <img src="https://img.shields.io/badge/Instagram-emanuel.oh-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <h1>Emanuel Robinson</h1> 
-
 <br>  
 </div>
 <p align="justify">
