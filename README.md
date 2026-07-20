@@ -7,7 +7,6 @@
 </a>
 <h1>Emanuel Robinson</h1> 
 
-<p>Welcome to my profile, Deseas un té o café?, café esta bien?, ok?, Listo! será café☕ </p>
 <br>  
 </div>
 <p align="justify">
