@@ -8,9 +8,7 @@
 <h1>Emanuel Robinson</h1> 
 <br>  
 </div>
-<p align="justify">
-  Desarrollador de software enfocado en la creación de soluciones web funcionales y centradas en el usuario. Actualmente, me encuentro finalizando mi tesis de grado mientras expando mis habilidades en desarrollo full-stack.
-</p>
+<p align="justify">Desarrollador de software enfocado en la creación de soluciones web funcionales y centradas en el usuario. Actualmente, me encuentro finalizando mi tesis de grado mientras expando mis habilidades en desarrollo full-stack.</p>
 
 <div align="center">
 <h3>PERSONAL SKILLS</h3>
