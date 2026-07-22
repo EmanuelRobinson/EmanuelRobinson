@@ -6,8 +6,7 @@
 <img src="https://img.shields.io/badge/Instagram-emanuel.oh-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <h1>Emanuel Robinson</h1> 
-<br>  
-
+<br>
 </div>
 <p align="justify">Desarrollador de software enfocado en la creación de soluciones web funcionales y centradas en el usuario. Actualmente, me encuentro finalizando mi tesis de grado mientras expando mis habilidades en desarrollo full-stack.</p>
 
