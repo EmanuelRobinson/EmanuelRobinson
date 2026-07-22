@@ -26,5 +26,6 @@
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"><br><sub><b>Git</b><br>Control</sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"><br><sub><b>VS Code</b><br>Editor</sub></td>
 </tr>
+  
 </table>
 </div>
