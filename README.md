@@ -9,15 +9,12 @@
 <br>
 </div>
 <p align="justify">Desarrollador de software enfocado en la creación de soluciones web funcionales y centradas en el usuario. Actualmente, me encuentro finalizando mi tesis de grado mientras expando mis habilidades en desarrollo full-stack.</p>
-
 <div align="center">
 <h3>PERSONAL SKILLS</h3>
 <img src="https://img.shields.io/badge/Trabajo_en_Equipo-0078D4?style=for-the-badge&logo=users&logoColor=white" />
 <img src="https://img.shields.io/badge/Aprendizaje_Continuo-FFB900?style=for-the-badge&logo=google-learn&logoColor=black" />
 <br>
-
 <h3>Tech stack and tools in progress</h3>
-
 <table align="center" border="null">
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"><br><sub><b>Java</b><br>Mobile</sub></td>
