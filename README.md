@@ -7,8 +7,7 @@
 </a>
 <h1>Emanuel Robinson</h1> 
 <br>
-  
-  
+
 
 
 </div>
